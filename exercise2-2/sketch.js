@@ -47,7 +47,7 @@ function draw() {
    quad(centreX + 30, centreY - 85, centreX + 5, centreY + 50, centreX + 85, centreY + 50, centreX + 60, centreY - 75)
     fill(100)
     quad(centreX - 80, centreY -85, centreX - 95, centreY + 60, centreX + 55, centreY + 60, centreX + 30, centreY - 85)
-    fill(60)
+    fill(60) 
     quad(centreX - 70, centreY + 15, centreX - 75, centreY + 50, centreX + 35, centreY + 50, centreX + 30, centreY + 15)
     rect(centreX - 20, centreY + 70, 160, 20, 20)
     rect(centreX - 110, centreY + 50, 40, 10, 20)
